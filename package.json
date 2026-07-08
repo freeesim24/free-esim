@@ -1,0 +1,26 @@
+{
+  "name": "@freeesim24/free-esim",
+  "version": "1.0.0",
+  "description": "Open-source utility and schema helper to parse, validate, and optimize digital eSIM configuration payloads.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeesim24/free-esim.git"
+  },
+  "keywords": [
+    "esim",
+    "free-esim",
+    "lpa-parser",
+    "telecom",
+    "cellular-profile"
+  ],
+  "author": "freeesim24",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freeesim24/free-esim/issues"
+  },
+  "homepage": "https://esimfree.org"
+}
